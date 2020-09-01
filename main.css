@@ -1,0 +1,33 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #4C5B61!important;
+}
+#content{
+	color:white;
+	margin:20px 40px;
+}
+.container{
+	color:white;
+}
+.table{
+	border-radius:10px;
+}
+#make-post{
+	background-color: #2C423F;
+	border-radius:10px;
+}
+.btn{
+	font-family: 'Ubuntu', sans-serif;
+}
+/*.container .btn-success{
+	background-color:#8FCB9B;
+	border-color:#8FCB9B;
+}*/
+.container .btn-success:hover{
+	background-color:#8FCB9B;
+	border-color:#8FCB9B;
+	color:white;
+}
+

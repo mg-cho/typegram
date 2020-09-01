@@ -1,0 +1,51 @@
+#menu{
+	width:100%;
+	/*position:fixed;*/
+	border-radius: 0px 0px 7px 7px;
+}
+#menu a{
+	color:white;
+	/*font-size: 1.1em;*/
+	font-family: 'Ubuntu', sans-serif;
+}
+#menu a:hover{
+	color:#8FCB9B;
+}
+#menu .nav-item{
+	padding:5px 10px;
+	text-align: center;
+}
+#menu img{
+	width:100px;
+	height:auto;
+}
+
+#menu .btn-outline-success:hover{
+	background-color:#8FCB9B;
+	color:white;
+}
+#menu .btn-outline-success{
+	font-family: 'Ubuntu', sans-serif;
+	color:#8FCB9B;
+	border-color:#8FCB9B;
+}
+#menu #active{
+	color:#8FCB9B;
+	font-weight:500;
+}
+#menu #active:hover{
+	color:#A2C7E5;
+}
+#menu .btn-primary{
+	background-color:#A2C7E5;
+	border-color:#A2C7E5;
+}
+#menu .btn-primary:hover{
+	color:black;
+}
+#menu #login:hover{
+	color:#A2C7E5;
+}
+#menu #logout:hover{
+	color:#A2C7E5;
+}

@@ -1,0 +1,1 @@
+SELECT * FROM mgcho_typegram_db.combo;
